@@ -55,6 +55,7 @@ font-family: monospace;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin:auto;
 }
 
 #random{
@@ -86,7 +87,8 @@ font-family: monospace;
     padding: 70px;
     margin: 0 auto;
     box-shadow: 0px 7px 15px 3px black;
-    border-radius: 30px;    
+    border-radius: 30px;   
+     
 }
 
 body{
